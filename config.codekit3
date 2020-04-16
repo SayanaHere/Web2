@@ -51,8 +51,8 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dev/index.html",
-		"oF": 0
+		"oAP": "/deploy/index.html",
+		"oF": 2
 		},
 	"/dev/js/scripts.js": {
 		"bF": 0,
@@ -231,7 +231,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 608749192.60810101,
-	"displayValue": "in-class-AM-master",
+	"displayValue": "Web2",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-peach",
 	"iconImageWasSetByUser": 0
